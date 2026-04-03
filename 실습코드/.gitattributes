@@ -1,0 +1,5 @@
+seoul_201612.csv filter=lfs diff=lfs merge=lfs -text
+seoul_201712.csv filter=lfs diff=lfs merge=lfs -text
+seoul_201706.csv filter=lfs diff=lfs merge=lfs -text
+seoul_201606.csv filter=lfs diff=lfs merge=lfs -text
+seoul_201512.csv filter=lfs diff=lfs merge=lfs -text
