@@ -1,3 +1,4 @@
+use library;
 
 CREATE TABLE DEPT (
  DEPTNO              integer,
